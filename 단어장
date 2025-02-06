@@ -1,0 +1,20 @@
+<head>: 문서의 설정 (메타 정보, 제목 등등)
+
+<meta charset="UTF-8"> : HTML 문서에서 사용되는 문자 인코딩을 UTF-8로 설정, <head>부분 최상단에 사용.
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> : 모바일 환경 최적화
+</head>
+
+<body>: 실제 화면에 보이는 컨텐츠
+
+<h1> :  "Heading 1"의 약자로, 가장 중요한 제목이나 큰 제목을 나타내는 태그.
+<p> :  "Paragraph"의 약자로, 문단을 나타내는 태그.
+
+<header>, <nav>, <main>, <section>, <article>, <aside>, <footer> : 페이지 내의 역할(헤더, 네비게이션, 본문, 사이드바, 바닥글 등)을 구분, 코드의 가독성이 좋아지고, SEO(검색 엔진 최적화)나 접근성에도 도움.
+<a> : 다른 웹페이지나 같은 페이지 내의 특정 위치로 이동 + href 사용.
+<img> :  사진이나 그래픽을 삽입하며, alt 속성은 이미지가 로드되지 않을 때 대체 텍스트를 제공하거나 스크린 리더를 위한 정보를 제공
+<li> : 리스트를 제공할 때 사용. 순서의 유무 무관.
+<ul> : 순서 없는 리스트.
+
+<form>, <input>, <textarea>, <button> : 사용자로부터 데이터를 입력받거나 검색, 문의 등을 받을 때는 폼을 사용. action과 method를 통해 폼 데이터를 처리하는 방식을 지정
+
+</body>
